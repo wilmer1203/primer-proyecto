@@ -1,0 +1,28 @@
+/* Selector con etiquetas */
+
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
+h2 {
+    color: blue;
+    
+}
+
+
+header p {
+    color: green;
+    /* font-size: 20px; */
+}
+
+/* selector por clases */
+.content {
+    color: blueviolet;
+}
+
+/* selector por id */
+
+#title2 {
+    color: rgb(0, 234, 255);
+}
